@@ -1,1 +1,4 @@
 keys.config
+__pycache__
+
+lightning_logs
